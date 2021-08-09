@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">converter_BinToDec</string>
+    <string name="field_input">masukan angka hexa</string>
+    <string name="submit">Submit</string>
+    <string name="field_output">Hasil akan muncul disini...</string>
+    <string name="reset">reset</string>
+    <string name="guide_1">⚫ tekan tombol submit ketika field telah diisi</string>
+    <string name="guide_2">⚫ tekan tombol reset untuk menghapus data</string>
+</resources>
